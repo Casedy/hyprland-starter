@@ -1,6 +1,6 @@
-# ----------------------------------------------------- 
-# Install packages 
-# ----------------------------------------------------- 
+# -----------------------------------------------------
+# Install packages
+# -----------------------------------------------------
 
 installer_packages=(
     "hyprland"
@@ -18,8 +18,8 @@ installer_packages=(
     "ttf-font-awesome"
     "vim"
     "fastfetch"
-    "ttf-fira-sans" 
-    "ttf-fira-code" 
+    "ttf-fira-sans"
+    "ttf-fira-code"
     "ttf-firacode-nerd"
     "fuse2"
     "gtk4"
@@ -29,7 +29,7 @@ installer_packages=(
 )
 
 installer_yay=(
-    "wlogout" 
+    "wlogout"
 )
 
 # PLEASE NOTE: Add more packages at the end of the following command
